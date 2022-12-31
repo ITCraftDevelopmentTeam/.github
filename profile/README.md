@@ -1,3 +1,10 @@
+<style>
+img[alt="Readme Card"] {
+  height: 10rem;
+  width: 20rem;
+}
+</style>
+
 ## Hi there 👋
 
 About us
