@@ -7,13 +7,18 @@ We are IT Craft Development Team , a web studio created in 2020 , Now has nearly
 > The maker of high-end talent and the dreamer of the 21st and even 22nd century Internet of Everything 
 
 
-<!--
+---
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<!-- 
+要添加项目按这个格式写在Personal projects里
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=用户名&repo=项目名)](项目地址)
 -->
+
+## Personal projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xxtg666&repo=CmdServerReloaded)](https://github.com/xxtg666/CmdServerReloaded)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xxtg666&repo=MinecraftModpackExportTool)](https://github.com/xxtg666/MinecraftModpackExportTool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=This-is-XiaoDeng&repo=CmdServer4)](https://github.com/This-is-XiaoDeng/CmdServer4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=This-is-XiaoDeng&repo=XDbot)](https://github.com/This-is-XiaoDeng/XDbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=This-is-XiaoDeng&repo=QFiles)](https://github.com/This-is-XiaoDeng/QFiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=This-is-XiaoDeng&repo=qcli)](https://github.com/This-is-XiaoDeng/qcli)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=This-is-XiaoDeng&repo=XDChat)](https://github.com/This-is-XiaoDeng/XDChat)
