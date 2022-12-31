@@ -22,3 +22,4 @@ We are IT Craft Development Team , a web studio created in 2020 , Now has nearly
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=This-is-XiaoDeng&repo=QFiles)](https://github.com/This-is-XiaoDeng/QFiles)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=This-is-XiaoDeng&repo=qcli)](https://github.com/This-is-XiaoDeng/qcli)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=This-is-XiaoDeng&repo=XDChat)](https://github.com/This-is-XiaoDeng/XDChat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=PowerAngelXD&repo=Sakora)](https://github.com/PowerAngelXD/Sakora)
