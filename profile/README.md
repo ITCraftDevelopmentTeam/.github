@@ -33,5 +33,5 @@ Coming Soon
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=PowerAngelXD&repo=Sakora)](https://github.com/PowerAngelXD/Sakora)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xxtg666&repo=MinecraftModpackExportTool)](https://github.com/xxtg666/MinecraftModpackExportTool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=This-is-XiaoDeng&repo=QFiles)](https://github.com/This-is-XiaoDeng/QFiles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=WowStarWorld&repo=StarWorldToolBox)](https://github.com/WowStarWorld/StarWorldToolBox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=WowStarWorld&repo=StarWorldToolBox-Plus)](https://github.com/WowStarWorld/StarWorldToolBox-Plus)
 
