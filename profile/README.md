@@ -7,7 +7,7 @@ We are IT Craft Development Team , a web studio created in 2020 , Now has nearly
 > The maker of high-end talent and the dreamer of the 21st and even 22nd century Internet of Everything 
 
 
-**[Click Here To Visit Our Forum](https://github.com/ITCraftDevelopmentTeam/Forum/discussions)**
+**[Click Here To Visit Our Forum](https://github.com/ITCraftDevelopmentTeam/Forum/discussions)**  
 **[Click Here To Join Our QQ Group](https://jq.qq.com/?_wv=1027&k=HpYPmUy2)**
 
 
