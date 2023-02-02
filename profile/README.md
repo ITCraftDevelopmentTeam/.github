@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there is ITCraftDevelopmentTeam 👋
 
 About us
 
@@ -8,6 +8,7 @@ We are IT Craft Development Team , a web studio created in 2020 , Now has nearly
 
 
 **[Click Here To Visit Our Forum](https://github.com/ITCraftDevelopmentTeam/Forum/discussions)**
+**[Click Here To Join Our QQ Group](https://jq.qq.com/?_wv=1027&k=HpYPmUy2)**
 
 
 ---
