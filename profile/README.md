@@ -14,7 +14,7 @@ We are IT Craft Development Team , a web studio created in 2020 , Now has nearly
 ---
 
 ## Best Project List
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=This-is-XiaoDeng&repo=XDbot2)](https://github.com/This-is-XiaoDeng/XDbot2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ITCraftDevelopmentTeam&repo=XDbot2)](https://github.com/ITCraftDevelopmentTeam/XDbot2)
 
 ---
 
