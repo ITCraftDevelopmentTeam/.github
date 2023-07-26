@@ -29,6 +29,7 @@ We are IT Craft Development Team , a web studio created in 2020 , Now has nearly
 -->
 
 ## Personal projects / 个人项目
+[![Readme Card]([https://github.com/PowerAngelXD/SimpleLauncher](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=FZSGBall&repo=SimpleLauncher))](https://github.com/PowerAngelXD/SimpleLauncher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xxtg666&repo=CmdServerReloaded)](https://github.com/xxtg666/CmdServerReloaded)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=This-is-XiaoDeng&repo=CmdServer4)](https://github.com/This-is-XiaoDeng/CmdServer4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=This-is-XiaoDeng&repo=XDbot)](https://github.com/This-is-XiaoDeng/XDbot)
