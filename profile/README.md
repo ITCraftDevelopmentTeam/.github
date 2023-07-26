@@ -41,4 +41,4 @@ We are IT Craft Development Team , a web studio created in 2020 , Now has nearly
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xxtg666&repo=xtGitVote)](https://github.com/xxtg666/xtGitVote)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=WowStarWorld&repo=StarWorldToolBox-Plus)](https://github.com/WowStarWorld/StarWorldToolBox-Plus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xxtg666&repo=xxtgMineCraftLauncher)](https://github.com/xxtg666/xxtgMineCraftLauncher)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=FZSGBall&repo=SimpleLauncher)](https://github.com/PowerAngelXD/SimpleLauncher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=PoerAngelXD&repo=SimpleLauncher)](https://github.com/PowerAngelXD/SimpleLauncher)
