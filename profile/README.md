@@ -4,7 +4,7 @@ About us / 关于我们
 
 We are IT Craft Development Team , a web studio created in 2020 , Now has nearly 70 members , Yolang and dozens of open source projects , Committed to building an open , free and active information technology exchange platform , Interconnection technology , looking forward to you ! 
 
-我们是IT Craft Development Team，一家创建于2020年的网络工作室，现在拥有近70名成员，Yolang和数十个开源项目，致力于构建一个开放、自由和活跃的信息技术交流平台。期待您的到来！
+我们是 IT Craft Development Team，一家创建于2020年的网络工作室，现在拥有近70名成员，Yolang和数十个开源项目，致力于构建一个开放、自由和活跃的信息技术交流平台。期待您的到来！
 
 > ~~The maker of high-end talent~~ and the dreamer of the 21st and even 22nd century Internet of Everything 
 > 
