@@ -14,20 +14,20 @@ We are IT Craft Development Team , a web studio created in 2020 , Now has nearly
 **[Click Here To Visit Our Forum / 单击此处访问我们的论坛](https://github.com/ITCraftDevelopmentTeam/Forum/discussions)**  
 **[Click Here To Join Our QQ Group / 点击这里加入我们的QQ群](https://github.com/ITCraftDevelopmentTeam/Forum/issues/new/choose)**
 
-
+<!--
 ---
 
 ## Best Project List / 优秀项目列表
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moonlark-Dev&repo=XDbot2)](https://github.com/Moonlark-Dev/XDbot2)
 
 ---
-
+-->
 
 <!-- 
 要添加项目按这个格式写在Personal projects里
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=用户名&repo=项目名)](项目地址)
 -->
-
+<!--
 ## Personal projects / 个人项目
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xxtg666&repo=CmdServerReloaded)](https://github.com/xxtg666/CmdServerReloaded)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=Moonlark-Dev&repo=XDbot)](https://github.com/Moonlark-Dev/XDbot)
@@ -39,3 +39,10 @@ We are IT Craft Development Team , a web studio created in 2020 , Now has nearly
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=WowStarWorld&repo=StarWorldToolBox-Plus)](https://github.com/WowStarWorld/StarWorldToolBox-Plus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=xxtg666&repo=xxtgMineCraftLauncher)](https://github.com/xxtg666/xxtgMineCraftLauncher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=PowerAngelXD&repo=SimpleLauncher)](https://github.com/PowerAngelXD/SimpleLauncher)
+-->
+
+<!--
+
+这玩意好久没更新了，不如删了
+
+-->
