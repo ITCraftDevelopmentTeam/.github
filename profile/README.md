@@ -12,7 +12,7 @@ We are IT Craft Development Team , a web studio created in 2020 , Now has nearly
 
 
 **[Click Here To Visit Our Forum / 单击此处访问我们的论坛](https://github.com/ITCraftDevelopmentTeam/Forum/discussions)**  
-**[Click Here To Join Our QQ Group / 点击这里加入我们的QQ群](https://join.itcdt.top)**
+**[Click Here To Join Our QQ Group / 点击这里加入我们的QQ群](https://join.itcdt.top)**  
 **[Click Here To Join Our Discord Server / 点击这里加入我们的Discord服务器](https://discord.itcdt.top)**
 
 <!--
